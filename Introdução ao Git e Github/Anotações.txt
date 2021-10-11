@@ -1,3 +1,40 @@
 Link para dowload do Git:https://git-scm.com/downloads
 
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Comandos importantes no sistema operacional Windows:
+
+cd:Navega para próxima página.
+cd..: Voltar pasta.
+dir: Listar itens na pasta em que está.
+dir -a: Listar itens na pasta em que está incluindo os ocultos.
+mkdir: Criar uma pasta.
+del: Deletar tudo em uma pasta.
+rmdir: Deletar a pasta.
+cls: Limpar tela.
+
+Comandos importantes do Git:
+
+git init
+git add arquivo-ou-pasta-a-ser-adicionado
+git commit -m "mensagem"
+git clone endereço-do-local-a-ser-clonado
+git push endereço-do-local-a-ser-enviado
+git pull endereço-do-local-que-irá-receber
+git config --global user.email "email"
+git config --global user.name "nome"
+git status
+git log --oneline
+git remote add origin endereço-do-repositorio
+git branch
+git checkout 
+git merge
+git log --graph
+git rebase
+git reset
+git revert
+git stash
+
+
+
+
